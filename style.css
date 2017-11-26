@@ -32,6 +32,7 @@ body {background: #222;}
 	transform: rotate(45deg);
 	top:30px;
 }
+
 #hamburger.open span:nth-child(4) {
 	transform: rotate(-45deg);
 	top:-30px;
